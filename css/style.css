@@ -38,7 +38,7 @@ h4 {
 }
 
 .column {
-  width: 48%;
+  width: 30%;
   display: inline-block;
 }
 
@@ -48,9 +48,9 @@ h4 {
 }
 
 .med {
-  width: 200.5%;
+  width: 203.5%;
 }
 
 .large {
-  width: 300%;
+  width: 303%;
 }
